@@ -86,7 +86,7 @@ const PrimaryFeatures = () => {
             Everything you need to run your books.
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Well everything you need if you aren't that
+            Well everything you need if you aren&apos;t that
             picky about minor details like tax compliance.
           </p>
         </div>

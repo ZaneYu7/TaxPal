@@ -25,7 +25,7 @@ const Login = () => {
       </h2>
 
       <p className="mt-2 text-sm text-gray-700">
-        Don't have an account?{" "}
+        Don&apos;t have an account?{" "}
         <Link
           href="/register"
           className="font-medium text-blue-600 hover:underline">

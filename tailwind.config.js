@@ -25,16 +25,16 @@ module.exports = {
     },
     extend: {
       borderRadius: {
-        '4xl': '2rem',
+        "4xl": "2rem",
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
         display: ['Lexend', ...defaultTheme.fontFamily.sans],
       },
       maxWidth: {
-        '2xl': '40rem',
-      },
-    },
+        '2xl': "40rem"
+      }
+    }
   },
-  plugins: [require('@tailwindcss/forms')],
+  plugins: [require('@tailwindcss/forms')]
 }
